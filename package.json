@@ -1,8 +1,8 @@
 {
   "name": "wordsHandler",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "a simple script resolving ielts word list text file. ",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
