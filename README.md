@@ -9,5 +9,6 @@ I just resolved the original word list text with regex to a purely "word list wi
 ## How to use
 1. install `node.js` and `pnpm`/`npm`
 2. open your terminal
-3. run `pnpm start`
+4. run `pnpm install` or `npm install`
+3. run `pnpm start` or `npm start`
 4. open `output.txt`
